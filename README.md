@@ -1,4 +1,4 @@
-<h1 align="center">👻🎃Hi, I'm Diego Duarte Slowing🎃👻</h1>
+<h1 align="center">Hi, I'm Diego Duarte Slowing</h1>
 <h3 align="center">A passionate developer student from Guatemala. </h3>
 <div align="center">
   <img alt="beagle" width="400" src="https://github.com/user-attachments/assets/6640f781-da2b-46b5-a457-cb9261dc57d0" />
